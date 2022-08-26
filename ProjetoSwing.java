@@ -54,7 +54,7 @@ public class ProjetoSwing extends javax.swing.JFrame {
 
     private void ButtonClickActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ButtonClickActionPerformed
 
-        TextDisplay.setText("Olá, mundo.");
+        TextDisplay.setText("Olá, mundo");
     }//GEN-LAST:event_ButtonClickActionPerformed
 
     
